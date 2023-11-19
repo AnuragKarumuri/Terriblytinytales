@@ -1,5 +1,6 @@
 # Terriblytinytales
-This is a rendered screen for the assignment given by Terribly Tiny Tales. 
+This is a rendered screen for the assignment given by Terribly Tiny Tales.
+
 Steps:
 1. Clone the repo to your local machine.
 2. Run ```npm install``` to install all the dependencies.
